@@ -61,7 +61,3 @@ int main(){
     bubbleSortArray();
     display();
 }
-
-int main(){
-
-}
